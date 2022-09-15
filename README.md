@@ -19,6 +19,7 @@ Algunas de las cualidades que me identifican son:
 - HTML
 - CSS
 - SQL
+- Figma
 
 ### < ✍️ Aprendiendo >
 - JavaScript
